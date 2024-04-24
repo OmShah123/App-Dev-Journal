@@ -17,6 +17,15 @@ I created a to-do list app that allows you to add tasks, check them off, and del
 ![Simulator Screenshot - iPhone 15 Pro - 2024-04-24 at 01 46 30](https://github.com/OmShah123/App-Dev-Journal/assets/100872933/354ea715-e791-4d51-a8b2-68d2ca5b2c6a)
 <br>
 
+Restaurant App
+<br>
+I created an app designed for restaurants that is a multitool that allows you to import your allergies and dietary restrictions on a profile, calculate the amount of tax, and split the total amongst the number of people in your party.
+![Simulator Screenshot - iPhone 15 Pro - 2024-04-24 at 03 01 02](https://github.com/OmShah123/App-Dev-Journal/assets/100872933/ef148bcb-a5dc-4257-b098-bf2eb977fb08)
+![Simulator Screenshot - iPhone 15 Pro - 2024-04-24 at 03 01 15](https://github.com/OmShah123/App-Dev-Journal/assets/100872933/6f0d8795-e131-4cb4-a7a2-61c8f5e2ce08)
+![Simulator Screenshot - iPhone 15 Pro - 2024-04-24 at 03 01 22](https://github.com/OmShah123/App-Dev-Journal/assets/100872933/2af6a37f-2e55-452e-b73a-ffdd01854a53)
+![Simulator Screenshot - iPhone 15 Pro - 2024-04-24 at 03 01 29](https://github.com/OmShah123/App-Dev-Journal/assets/100872933/46066b2a-36fb-4a29-baf9-34c147e20e52)
+<br>
+
 Pokedex
 <br>
 I created a Pokedex by following this tutorial on YouTube.
