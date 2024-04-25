@@ -36,6 +36,13 @@ https://www.youtube.com/watch?v=dmIot8Weoxg
 <br>
 
 Lynk App
+<br>
 I created a barebones entry page and the posting feature for my app, Lynk. This will be modified and attached to other parts of our team's code. This is what the mockup looks like.
 <br>
 <img width="372" alt="image" src="https://github.com/OmShah123/App-Dev-Journal/assets/100872933/bffd37fe-661d-452d-bf45-5ec70a486fc8">
+Here is the coded app:
+<br>
+![Simulator Screenshot - iPhone 15 Pro - 2024-04-24 at 22 20 46](https://github.com/OmShah123/App-Dev-Journal/assets/100872933/c3e1b8bc-94cb-4701-8c33-793f894fb730)
+
+![Simulator Screenshot - iPhone 15 Pro - 2024-04-24 at 22 18 34](https://github.com/OmShah123/App-Dev-Journal/assets/100872933/41b2c202-ef26-4e7c-84f4-8d1db3c5c404)
+
